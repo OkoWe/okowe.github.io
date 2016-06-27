@@ -1,0 +1,83 @@
+<!-- Navigation -->
+<nav class="navbar navbar-default navbar-fixed-top">
+    <div class="container">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header page-scroll">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand page-scroll" href="#page-top">{{site.title}}</a>
+        </div>
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse">
+            <ul class="nav navbar-nav navbar-right">
+                <li class="hidden">
+                    <a href="#page-top"></a>
+                </li>
+                <li>
+                    <a class="page-scroll" href="#missions">Mission</a>
+                </li>
+                <li>
+                    <a class="page-scroll" href="#impacts">Impacts</a>
+                </li>
+                <li>
+                    <a class="page-scroll" href="#contact">Contact</a>
+                </li>
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+    <!-- /.container-fluid -->
+</nav>
+
+<!-- Header -->
+<header>
+    <div style="background: rgba(54, 25, 25, .3);">
+        <div class="container">
+            <div class="row">
+                <div class="intro-text">
+                    <div class="col-md-7">
+                        <div class="intro-heading">OKO WE</div>
+                        <div class="intro-lead-in">Créer un social business en plein désert!</div>
+                    </div>
+
+                    <div class="col-md-5">
+                        <h2>Si toi aussi, tu veux suivre l'aventure OKO WE!
+                      <strong>Inscrit toi à la newsletter !</strong>
+                    </h2>
+                        <form name="sentMessage" id="contactForm" novalidate>
+                            <div class="row">
+                                <div class="col-md-2">&nbsp;</div>
+                                <div class="col-md-8">
+                                    <div class="control-group form-group">
+                                        <input type="text" class="form-control" placeholder="Your Name *" id="name" required data-validation-required-message="Please enter your name.">
+                                        <p class="help-block text-danger"></p>
+                                    </div>
+                                    <div class="control-group form-group">
+                                        <input type="email" class="form-control" placeholder="Your Email *" id="email" required data-validation-required-message="Please enter your email address.">
+                                        <p class="help-block text-danger"></p>
+                                    </div>
+                                    <div class="control-group form-group text-center">
+                                        <div id="success"></div>
+                                        <button type="submit" class="btn btn-xl">Send Message</button>
+                                    </div>
+                                </div>
+                                <div class="col-md-2">&nbsp;</div>
+                                <div class="clearfix"></div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+<!--
+        {% for page in site.pages %}
+          {% if page.title %}<a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>{% endif %}
+        {% endfor %}
+ -->
