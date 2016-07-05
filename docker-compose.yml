@@ -1,5 +1,12 @@
 burkina:
   image: jekyll/jekyll
+  environment:
+    - BUNDLE_ARGS=--force
+    - FORCE_BUNDLE=true
+    - FORCE_CACHE=true
+    - BUNDLE_CACHE=true
+    - POLLING=true
+    - VERBOSE=true
   ports:
     - "80:4000"
   volumes:
