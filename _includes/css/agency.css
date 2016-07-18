@@ -311,6 +311,9 @@ header .intro-text .intro-heading {
 }
 
 @media(min-width:768px) {
+    header .intro-blog {
+      height: auto;
+    }
     header .intro-text {
       height:100vh;
     }
