@@ -692,7 +692,7 @@ section#impacts p{
     font-size: 1.8em;
 }
 
-section#contact {
+section#contact {222
     background-color: #545970;
     background-image: url('{{ site.baseurl }}/img/map-image.png');
     background-position: center;
