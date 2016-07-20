@@ -24,4 +24,4 @@ L’entreprise est en pleine expansion et compte aujourd’hui financer une usin
 
 __Omar Coulibaly, entrepreneur Burkinabé qui ose agir et saisir les opportunités pour résoudre les cas de malnutrition critiques qui résident au Burkina Faso.__
 
-### Aujourd’hui, le tissu industriel est maigre au Burkina Faso ce qui explique le faible développement de la filière agro-alimentaire. Tout est question de synergie, si les techniques ne se développent pas, les entreprises et initiatives restent rares et fragiles. De nouveaux mouvements comme celui des maker au sein de leur fablabs, travaillent à démocratiser les techniques et process  industriels pour permettre à quiconque d’accéder aux outils nécessaires.
+__Aujourd’hui, le tissu industriel est maigre au Burkina Faso ce qui explique le faible développement de la filière agro-alimentaire. Tout est question de synergie, si les techniques ne se développent pas, les entreprises et initiatives restent rares et fragiles. De nouveaux mouvements comme celui des maker au sein de leur fablabs, travaillent à démocratiser les techniques et process  industriels pour permettre à quiconque d’accéder aux outils nécessaires.__
