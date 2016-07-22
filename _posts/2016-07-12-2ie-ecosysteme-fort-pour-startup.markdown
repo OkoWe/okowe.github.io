@@ -3,7 +3,7 @@ layout: posts
 title: 2IE, un écosystème pour des startups à fort impact, l’exemple d’Innofaso
 subtitle: Le séjour débute par un rendez-vous au sein de la célèbre école 2IE, école d’ingénierie et d’entrepreneuriat de Ouagadougou.
 date: 2016-07-12
-img: 1.jpg
+img: default.jpg
 category: Lorem
 description: Le séjour débute par un rendez-vous au sein de la célèbre école 2IE, école d’ingénierie et d’entrepreneuriat de Ouagadougou.
 ---

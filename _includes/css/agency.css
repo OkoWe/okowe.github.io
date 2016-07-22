@@ -14,6 +14,10 @@ body {
     color: #{{ site.data.template.color.secondary-dark }};
 }
 
+.intro_blog {
+  padding-bottom: 40px;
+}
+
 .text-muted {
     #{{ site.data.template.color.muted }};
 }

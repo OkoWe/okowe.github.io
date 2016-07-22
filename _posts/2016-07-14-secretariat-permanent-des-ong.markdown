@@ -3,7 +3,7 @@ layout: posts
 title: Le Secrétariat Permanent des ONG (SPONG), une plateforme pour mutualiser les ressources nationales et internationales et devenir un influenceur politique !
 subtitle: Le SPONG est une base de données et une fédération d’acteurs de qualité qui agissent pour le développement d’initiatives locales par la mutualisation de ressources.
 date: 2016-07-12
-img: 1.jpg
+img: default.jpg
 category: Lorem
 description: Le SPONG est une base de données et une fédération d’acteurs de qualité qui agissent pour le développement d’initiatives locales par la mutualisation de ressources.
 ---

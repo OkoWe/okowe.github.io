@@ -3,7 +3,7 @@ layout: posts
 title: Suivez l'aventure OkoWe dans la brousse du Burkina Faso !
 subtitle: OkoWe, graine d’initiatives locales pour résoudre des enjeux globaux.
 date: 2016-07-10
-img: 1.jpg
+img: default.jpg
 category: Lorem
 description: OkoWe, graine d’initiatives locales pour résoudre des enjeux globaux.
 ---
