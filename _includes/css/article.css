@@ -1,0 +1,24 @@
+---
+
+---
+/*!
+ * CSS for the an article
+ */
+
+.orange{
+  color:#fec503;
+}
+
+.last_articles{
+  padding:0;
+}
+
+.last_articles li{list-style:none;margin-bottom:22px;}
+
+.last_articles li:after{
+  content:"\A - ";
+  white-space: pre;
+  text-align: center;
+  display: block;
+  color: #CCC;
+}

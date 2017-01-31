@@ -8,7 +8,8 @@ category: Lorem
 description: OkoWe, graine d’initiatives locales pour résoudre des enjeux globaux.
 ---
 
-# Suivez l'aventure OkoWe dans la brousse du Burkina Faso !
+Suivez l'aventure OkoWe dans la brousse du Burkina Faso !
+<!-- more -->
 
 OkoWe, graine d’initiatives locales pour résoudre des enjeux globaux.
 Un blog pour partager avec vous ce voyage d’un mois au Burkina mêler de rencontres, de découvertes et de premiers tests terrains. L’objectif est de faire connaître OkoWe auprès d’influenceurs, de maker et d’entrepreneurs locaux qui font bouger les choses !

@@ -7,7 +7,8 @@ img: default.jpg
 category: Lorem
 description: OkoWe est un projet que je développe depuis Janvier 2016 au sein de mes études en entrepreneuriat, design et innovation à EM et Centrale Lyon.
 ---
-# Une aventure entrepreneuriale au Burkina Faso !
+Une aventure entrepreneuriale au Burkina Faso !
+<!-- more -->
 
 OkoWe est un projet que je développe depuis Janvier 2016 au sein de mes études en entrepreneuriat, design et innovation à EM et Centrale Lyon.  Ce projet s’est construit au fur et à mesure de mes études, de mes stages mais aussi de mes rencontres et différents voyages.
 

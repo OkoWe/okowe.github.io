@@ -26,12 +26,17 @@ layout: timeline
                           <!-- <img src="assets/timeline_01.svg" class="picto_timeline" alt="Pitco Prise de conscience"> -->
                       </div>
                       <div class="col-lg-6 col-md-6 col-sm-6 g-b tm-text-element">
-                          <h2 class="timeline-waypoint"><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
-                          <div class=""> {{ post.date | date: "%b %-d, %Y" }} </div>
-
-                          <div class="timeline-body">
-                              <p class="text-muted">{{ post.description | strip_html | truncatewords:128 }}</p>
-                          </div>
+                        <div style="color:#4f6369;"> {{ post.date | date: "%b %-d, %Y" }} </div>
+                        <h2 class="timeline-waypoint"><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
+                        <div class="timeline-body text-muted">
+                            <!-- <p class="text-muted"> -->
+                              {% if post.excerpt %}
+                                  {{ post.excerpt }}
+                              {% else %}
+                                {{ post.description | strip_html | truncatewords:128 }}
+                              {% endif %}
+                            <!-- </p> -->
+                        </div>
                       </div>
                   </div>
               </div>
@@ -41,7 +46,7 @@ layout: timeline
       </div> <!-- div.timeline -->
 
         <div class="row">
-          <div class="col-lg-8 col-lg-offset-2 col-md-8 text-center">
+          <div class="col-lg-8 col-md-offset-2 col-md-8 text-center">
             <div class="">
                 <h3>Be Part<br>Of Our<br>Story!</h3>
             </div>
